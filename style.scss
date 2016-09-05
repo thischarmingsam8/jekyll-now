@@ -126,7 +126,11 @@ img {
     color: #fff;
     margin-bottom: 1em;
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: top;
+  }
+
+  > script {
+    display: none;
   }
 }
 
