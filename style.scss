@@ -120,6 +120,16 @@ img {
   color: $gray;
 }
 
+.social {
+  padding-top: 1em;
+  > * {
+    color: #fff;
+    margin-bottom: 1em;
+    display: inline-block;
+    vertical-align: middle;
+  }
+}
+
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
