@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} | Sam Jacobs - Web development blog {% else %}{{ site.name }} | Web development blog{% endif %}</title>
+    <title>{% if page.title %}{{ page.title }} | {{site.short_description}} {% else %} {{ site.short_description }}{% endif %}</title>
 
     {% include meta.html %}
 
