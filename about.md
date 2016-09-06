@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I'm a full-stack web developer from Southsea, who most notably made it to the front page of Codepen for my [simple responsive timeline.](http://codepen.io/thischarmingsam/details/wGGGby/)
+I'm a full-stack web developer from Southsea, who most notably made it to the front page of Codepen for my [simple responsive timeline...](http://codepen.io/thischarmingsam/details/wGGGby/)
 
 After six years on the road as an 'interactive producer' making interactive displays for events, a chance meeting with the CEO led to me creating a mobile/desktop app that propelled me into the R&D department and a switch from Actionscript to the world of HTML/Javascript/CSS.
 
