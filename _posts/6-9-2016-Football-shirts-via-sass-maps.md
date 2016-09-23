@@ -3,7 +3,7 @@ layout: post
 title: Football shirts via Sass maps
 ---
 
-I recently wanted to implement football shirts for my fantasy football side project in solely in CSS, so they rendered sharply at all resolutions / didn't add network requests / require adding to a sprite sheet and fiddling with background positions.
+I recently wanted to implement football shirts for my fantasy football side project solely in CSS, so they rendered sharply at all resolutions / didn't add network requests / require adding to a sprite sheet and fiddling with background positions.
 
 I have to chop'n'change the shirt colours once a season, when teams update their kits and teams are promoted or relegated. This means coming back to some non-trivial CSS almost a year after last looking at it. I wanted the syntax to be human-readable and in one place so I don't miss anything out.
 
